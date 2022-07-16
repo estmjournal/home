@@ -1,0 +1,25 @@
+.mr-1 {
+  margin-right: 0.5rem;
+}
+
+#mainHeaderContent {
+  padding: 0 !important;
+}
+
+.title-centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: azure;
+}
+
+.content-image {
+  opacity: 0.5;
+  height: 20rem;
+}
+
+.card-title {
+  margin-bottom: 0.5rem;
+  text-decoration: underline;
+}
