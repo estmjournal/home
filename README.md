@@ -1,3 +1,3 @@
 # estm-website
 
-Open the index.html in browser.
+Open the index.html in any browser.
